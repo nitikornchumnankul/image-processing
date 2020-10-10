@@ -13,3 +13,5 @@ image processing เพื่อ การจำแนก
 [How Machine Learning is Fighting Cancer](https://www.youtube.com/watch?v=ALQ_RNSRE40&feature=share&fbclid=IwAR1MmmWPAUhE0e5yVbqgAXifPOZJUuknTh0H7DVZSTclBg5Pb2d3zl7i8-s)
 
 [Venture capital ในไทย](https://saiamad.wordpress.com/2015/05/27/venturecapitalthailand/?fbclid=IwAR1RC4u4zJiEeqXaUjnVxPmXTYzDaEwO_1OOqJaz1IQGJ-LnnVKDmVFJTlk)
+
+[AI model improves breast cancer detection on mammograms](https://www.youtube.com/watch?v=Mur70YjInmI&feature=share&fbclid=IwAR1hzrxHqvzA2aUtwC3PG4AmKFv45YKv6jXMXqhCD9MeSzhgUkye6xIFYDI)
