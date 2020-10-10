@@ -8,6 +8,8 @@ image processing เพื่อ การจำแนก
 
 # References
 
+[Detecting cancer in real-time with machine learning](https://www.youtube.com/watch?v=9Mz84cwVmS0&feature=share&fbclid=IwAR3Xl5jGYSsASg9WuezoGyJesUo_yWi1L-YRIXdKxhXYzynUidsYxM9l97s)
+
 [AI model improves breast cancer detection on mammograms](https://www.youtube.com/watch?v=Mur70YjInmI&feature=share&fbclid=IwAR2xJUBHEjRPsjBs5CLwclsC2S5meCvL_r_-326Xoz0FcNEN4hqg0UDW2lU)
 
 [How Machine Learning is Fighting Cancer](https://www.youtube.com/watch?v=ALQ_RNSRE40&feature=share&fbclid=IwAR1MmmWPAUhE0e5yVbqgAXifPOZJUuknTh0H7DVZSTclBg5Pb2d3zl7i8-s)
