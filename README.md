@@ -6,6 +6,9 @@ image processing เพื่อ การจำแนก
 2. โดยกำหนดกลุ่มเป้าหมายให้ชัดเจนแล้วไปดูว่ามีใครบ้างทำอะไรบ้างโดยวิธีใดบ้างได้ผลอย่างไรบ้าง
 3. อาจจะเริ่มที่ส่วนที่พัทรู้สึกว่าถนัดและรู้สึกสนใจก่อนก็ได้นะครับ
 
+## มะเร็งเต้านม
+
+
 # References
 
 [Detecting cancer in real-time with machine learning](https://www.youtube.com/watch?v=9Mz84cwVmS0&feature=share&fbclid=IwAR3Xl5jGYSsASg9WuezoGyJesUo_yWi1L-YRIXdKxhXYzynUidsYxM9l97s)
