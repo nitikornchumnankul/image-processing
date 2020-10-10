@@ -31,3 +31,5 @@ image processing เพื่อ การจำแนก
 [How It Works: IBM Watson Health](https://www.youtube.com/watch?v=ZPXCF5e1_HI&feature=youtu.be&fbclid=IwAR3_vWwesOYhZz6n8BmzKqGsfaeWHBsLlIOBoKGP5sDEwYWFWXba5bP6iuo)
 
 [TOP 10 MACHINE LEARNING STARTUPS OF 2020](https://www.analyticsinsight.net/top-10-machine-learning-startups-of-2020/?fbclid=IwAR2eqNtRmiAMzQPhBwGWOwbhFrff4-SdLcQ5uwEZkmr-3yARPKmIHIHrEzg)
+
+[McKinsey Careers: An inside look at McKinsey Analytics](https://www.youtube.com/watch?v=hscCPOtUq9Y&feature=share&fbclid=IwAR0R2FVTswMKiqtqEO4ivUZeIfm7pWXpFGbw6t0ONCAJyEf66hhgT_wSdMo)
