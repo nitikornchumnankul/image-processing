@@ -1,4 +1,5 @@
 # image-processing
+การสร้างเครื่องมือที่จะตรวจจับความผิดปกติของเซลล์ที่ก่อให้เกิดมะเร็งจากภาพถ่าย
 
 image processing เพื่อ การจำแนก
 เพราะขั้นตอนแรกคือ
@@ -20,3 +21,5 @@ image processing เพื่อ การจำแนก
 [Venture capital ในไทย](https://saiamad.wordpress.com/2015/05/27/venturecapitalthailand/?fbclid=IwAR1RC4u4zJiEeqXaUjnVxPmXTYzDaEwO_1OOqJaz1IQGJ-LnnVKDmVFJTlk)
 
 [AI model improves breast cancer detection on mammograms](https://www.youtube.com/watch?v=Mur70YjInmI&feature=share&fbclid=IwAR1hzrxHqvzA2aUtwC3PG4AmKFv45YKv6jXMXqhCD9MeSzhgUkye6xIFYDI)
+
+[Top 200 AI startups in Healthcare](https://www.medicalstartups.org/top/ai/?fbclid=IwAR0XVnnhnQitNp96mjYhi1i9AmJDNWeY6j9XQcS1tTNhVuGeJkiwg_00dgE#:~:text=OWKIN%20is%20the%20AI%20startup,with%20diseases%20and%20treatment%20outcomes)
