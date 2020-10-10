@@ -25,3 +25,9 @@ image processing เพื่อ การจำแนก
 [AI model improves breast cancer detection on mammograms](https://www.youtube.com/watch?v=Mur70YjInmI&feature=share&fbclid=IwAR1hzrxHqvzA2aUtwC3PG4AmKFv45YKv6jXMXqhCD9MeSzhgUkye6xIFYDI)
 
 [Top 200 AI startups in Healthcare](https://www.medicalstartups.org/top/ai/?fbclid=IwAR0XVnnhnQitNp96mjYhi1i9AmJDNWeY6j9XQcS1tTNhVuGeJkiwg_00dgE#:~:text=OWKIN%20is%20the%20AI%20startup,with%20diseases%20and%20treatment%20outcomes)
+
+[These Are The Startups Applying AI To Transform Healthcare](https://www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/?fbclid=IwAR2griUWPyBuKO39pp0D4-pVBH7Cg0W1rqsbspnuyS5TZI2yJsuuHEMycrI#5c1145d3722f)
+
+[How It Works: IBM Watson Health](https://www.youtube.com/watch?v=ZPXCF5e1_HI&feature=youtu.be&fbclid=IwAR3_vWwesOYhZz6n8BmzKqGsfaeWHBsLlIOBoKGP5sDEwYWFWXba5bP6iuo)
+
+[TOP 10 MACHINE LEARNING STARTUPS OF 2020](https://www.analyticsinsight.net/top-10-machine-learning-startups-of-2020/?fbclid=IwAR2eqNtRmiAMzQPhBwGWOwbhFrff4-SdLcQ5uwEZkmr-3yARPKmIHIHrEzg)
