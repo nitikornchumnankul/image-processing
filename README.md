@@ -21,6 +21,8 @@ image processing เพื่อ การจำแนก
 ## DATASETS
 [Breast Cancer Classification SVM](https://www.kaggle.com/babakgohardani/breast-cancer-classification-svm)
 
+[Breast cancer classification with Keras and Deep Learning](https://www.pyimagesearch.com/2019/02/18/breast-cancer-classification-with-keras-and-deep-learning/)
+
 # References
 
 [Detecting cancer in real-time with machine learning](https://www.youtube.com/watch?v=9Mz84cwVmS0&feature=share&fbclid=IwAR3Xl5jGYSsASg9WuezoGyJesUo_yWi1L-YRIXdKxhXYzynUidsYxM9l97s)
