@@ -39,3 +39,5 @@ image processing เพื่อ การจำแนก
 [TOP 10 MACHINE LEARNING STARTUPS OF 2020](https://www.analyticsinsight.net/top-10-machine-learning-startups-of-2020/?fbclid=IwAR2eqNtRmiAMzQPhBwGWOwbhFrff4-SdLcQ5uwEZkmr-3yARPKmIHIHrEzg)
 
 [McKinsey Careers: An inside look at McKinsey Analytics](https://www.youtube.com/watch?v=hscCPOtUq9Y&feature=share&fbclid=IwAR0R2FVTswMKiqtqEO4ivUZeIfm7pWXpFGbw6t0ONCAJyEf66hhgT_wSdMo)
+
+[สร้าง document](https://sharebootstrap.com/free-bootstrap-documentation-theme/)
