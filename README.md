@@ -14,6 +14,9 @@ image processing เพื่อ การจำแนก
 
 [6 สัญญาณเตือนมะเร็งเต้านม](https://www.samitivejhospitals.com/th/%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%A1%E0%B8%B0%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%87%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A1/)
 
+[คู่มือ การตรวจเต้านมโดยบุคลากรทางแพทย์ Clinical Breast Examination:CBE](http://www.nci.go.th/th/File_download/D_index/CBE/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A1.pdf)
+
+[คู่มือการตรวจคัดกรองมะเร็งเต้านม](http://www.kaengkrachan-hospital.com/images/main_1550108300/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%84%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B0%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%87%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A1.pdf)
 
 # References
 
