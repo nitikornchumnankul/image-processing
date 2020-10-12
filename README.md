@@ -35,7 +35,7 @@ image processing เพื่อ การจำแนก
 
 [Dataset Search](https://datasetsearch.research.google.com/)
 
-## Company about Breast cancer
+## Company
 
 [DearMamma](https://dearmamma.org/)
 
