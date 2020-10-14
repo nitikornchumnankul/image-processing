@@ -41,7 +41,7 @@ image processing เพื่อ การจำแนก
 [interview ceo](https://blogs.cisco.com/csr/women-rock-it-geetha-manjunath-niramai#:~:text=Corporate%20Social%20Responsibility-,The%20Founder%2C%20CEO%20and%20CTO%20of%20Niramai%20on,Early%20Detection%20of%20Breast%20Cancer&text=Dr.,and%20why%20she%20founded%20Niramai.)
 
 [niramai](https://www.niramai.com/)
-
+[youtube](https://www.youtube.com/playlist?list=PL25iL2iPp9_bzVZlU3Qxn8tdsUdvtnwU9)
 [twitter](https://twitter.com/niramaianalytix)
 
 [founding rounds](https://www.crunchbase.com/organization/niramai-health-analytix/company_financials)
