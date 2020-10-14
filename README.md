@@ -37,10 +37,16 @@ image processing เพื่อ การจำแนก
 
 [Dataset Search](https://datasetsearch.research.google.com/)
 
-## Company
+## Niramai Company
+[interview ceo](https://blogs.cisco.com/csr/women-rock-it-geetha-manjunath-niramai#:~:text=Corporate%20Social%20Responsibility-,The%20Founder%2C%20CEO%20and%20CTO%20of%20Niramai%20on,Early%20Detection%20of%20Breast%20Cancer&text=Dr.,and%20why%20she%20founded%20Niramai.)
 
-[DearMamma](https://dearmamma.org/)
 [niramai](https://www.niramai.com/)
+
+[twitter](https://twitter.com/niramaianalytix)
+
+[founding rounds](https://www.crunchbase.com/organization/niramai-health-analytix/company_financials)
+
+[SMILE Tool](https://www.niramai.com/about/smile/)
 
 ## Research
 [Breast Cancer Detection in Mammograms using Deep Neural Networks](https://www.researchgate.net/publication/337674033_Breast_Cancer_Detection_in_Mammograms_using_Deep_Neural_Networks)
