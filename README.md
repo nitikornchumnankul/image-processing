@@ -40,6 +40,7 @@ image processing เพื่อ การจำแนก
 ## Company
 
 [DearMamma](https://dearmamma.org/)
+[niramai](https://www.niramai.com/)
 
 ## Research
 [Breast Cancer Detection in Mammograms using Deep Neural Networks](https://www.researchgate.net/publication/337674033_Breast_Cancer_Detection_in_Mammograms_using_Deep_Neural_Networks)
