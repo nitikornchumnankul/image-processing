@@ -55,6 +55,9 @@ image processing เพื่อ การจำแนก
 ## Camera
 [Camera](https://termogram.com/)
 
+## News
+[Mum’s breast cancer spotted by museum’s thermal imaging camera](https://metro.co.uk/2019/10/22/mums-breast-cancer-spotted-museums-thermal-imaging-camera-10963552/)
+
 ## Research
 [Breast Cancer Detection in Mammograms using Deep Neural Networks](https://www.researchgate.net/publication/337674033_Breast_Cancer_Detection_in_Mammograms_using_Deep_Neural_Networks)
 
