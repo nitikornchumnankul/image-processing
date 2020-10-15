@@ -67,6 +67,7 @@ image processing เพื่อ การจำแนก
 
 [Deep Neural Networks Improve Radiologists’Performance in Breast Cancer Screening](https://arxiv.org/pdf/1903.08297.pdf)
 
+[Breast Cancer Detection Using Infrared Thermal Imaging and a Deep Learning Model](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mdpi.com%2F1424-8220%2F18%2F9%2F2799%2Fpdf-vor&psig=AOvVaw1iWGeLE5tbMzdv644WE1VM&ust=1602867002643000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCIDOsYaHt-wCFQAAAAAdAAAAABAj)
 ## Temperature Detection
 [Temperature Matters! And Why it Should Matter to Tumor Immunologists](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3904378/X)
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3904378/bin/nihms544172f1.jpg)
