@@ -60,7 +60,7 @@ image processing เพื่อ การจำแนก
 [Deep Neural Networks Improve Radiologists’Performance in Breast Cancer Screening](https://arxiv.org/pdf/1903.08297.pdf)
 
 ## Temperature Detection
-[Temperature Matters! And Why it Should Matter to Tumor Immunologists](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3904378/X
+[Temperature Matters! And Why it Should Matter to Tumor Immunologists](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3904378/X)
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3904378/bin/nihms544172f1.jpg)
 
 # References
