@@ -55,6 +55,8 @@ image processing เพื่อ การจำแนก
 ## Camera
 [Camera](https://termogram.com/)
 
+[Human-Body Temperature Checking Infrared Thermal Camera](https://johotek01.en.made-in-china.com/productimage/UMAnTxOVHwpZ-2f1j00OsvQFCnbwErm/China-Human-Body-Temperature-Checking-Infrared-Thermal-Camera.html)
+
 ## News
 [Mum’s breast cancer spotted by museum’s thermal imaging camera](https://metro.co.uk/2019/10/22/mums-breast-cancer-spotted-museums-thermal-imaging-camera-10963552/)
 
