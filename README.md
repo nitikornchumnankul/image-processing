@@ -58,6 +58,7 @@ image processing เพื่อ การจำแนก
 
 ![](https://lh3.googleusercontent.com/-n01FToFcCbo/Vr8QwTfQ2KI/AAAAAAAAEOs/CfV5x1tfjYc/s200/gee-mod1.jpg)
 
+[NIRAMAI Health Analytix: Making breast cancer diagnosis easier with Google Cloud and Launchpad](https://cloud.google.com/customers/niramai)
 
 ## Camera
 [Camera](https://termogram.com/)
