@@ -52,6 +52,9 @@ image processing เพื่อ การจำแนก
 
 [SMILE Tool](https://www.niramai.com/about/smile/)
 
+[Geetha Manjunath, Research Gate](https://www.researchgate.net/profile/Geetha_Manjunath)
+
+
 ## Camera
 [Camera](https://termogram.com/)
 
